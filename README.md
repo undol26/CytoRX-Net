@@ -25,10 +25,20 @@ CytoRX-net	| 3/4/4   | 48 | 65.2% | 2.54 days | [Lattice model_48](https://drive
 CytoRX-net	| 3/4/4   | 64 | 66.7% | 2.85 days | [Lattice model_64](https://drive.google.com/open?id=1taRuglBciz8eNvheURfgjD42useW3Jnx)  |
 
 ## Examples
-Examples of Object Detection Results on the PASCAL VOC 2007 using the Proposed Lattice-Type DenseNet.
+Examples of object detection results on the PASCAL VOC 2007 using the proposed CytoRX-Net.
 <div align=center>
 <img src="https://user-images.githubusercontent.com/29120209/49847915-d1a7bf00-fe15-11e8-93f1-8792765b6c52.png">
 </div>
+ 
+
+It also operates well in video. (click the image)
+
+<a href="https://www.youtube.com/watch?v=mXzZJaABH4c">
+<img src="https://user-images.githubusercontent.com/29120209/49853303-0d4c8400-fe2a-11e8-8a59-349a5d8ccddb.png" 
+alt="IMAGE ALT TEXT HERE" width="640" height="360" border="10" /></a>
+</div>
+
+
 
 ## Testing
 - Install DSOD (https://github.com/szq0214/DSOD) and execute without any errors.
