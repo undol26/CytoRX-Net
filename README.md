@@ -1,6 +1,6 @@
 # CytoRX-Net: Cytoarchitecture Network Based on Lattice-Type DenseNets
 
-This website opens to anyone who wants to apply our proposed network. Since we are still submitting to IEEE Signal Processing Letters, the codes are not allowed but can be downloaded for our proposed trained models.
+This website opens to anyone who wants to apply our proposed network. Since we are still submitting to Electronics Letters, the codes are not allowed but can be downloaded for our proposed trained models.
 
 Our code is based on the [DSOD](https://github.com/szq0214/DSOD) framework.
 
